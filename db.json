@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": "1234",
+      "nome": "Jabuticaba",
+      "imagem": "https://cdn.awsli.com.br/600x450/18/18885/produto/1972603/92ba3c993f.jpg",
+      "preco": 25.31
+    },
+    {
+      "id": "1123123",
+      "nome": "mateus",
+      "preco": "30",
+      "imagem": "https://static.tuasaude.com/media/article/u5/2b/jabuticaba_4751_l.jpg"
+    },
+    {
+      "id": "12345",
+      "nome": "luffy",
+      "preco": "1000",
+      "imagem": "https://i.pinimg.com/736x/43/ed/52/43ed52cb6262df9666940dae0454359a.jpg"
+    }
+  ]
+}
